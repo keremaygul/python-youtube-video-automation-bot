@@ -1,0 +1,13 @@
+[
+    {
+        "id": "test1",
+        "title": "Test Video Title",
+        "description": "This is a test video description. It will be used to demonstrate the functionality of the YouTube video automation bot. The bot will create a video with this description and upload it to YouTube.",
+        "images": [
+            "../assets/backgrounds/bg1.jpg",
+            "../assets/backgrounds/bg2.jpg",
+            "../assets/backgrounds/bg3.jpg"
+        ],
+        "audio_text": "Welcome to this test video. This is a demonstration of the YouTube video automation bot. The bot can create videos automatically using provided content and upload them to YouTube. This is just a test video to show how it works."
+    }
+] 

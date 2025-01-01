@@ -1,0 +1,16 @@
+{
+    "paths": {
+        "assets_dir": "assets",
+        "temp_dir": "assets/temp",
+        "font_path": "assets/fonts/default.ttf"
+    },
+    "youtube": {
+        "chrome_driver_path": "chromedriver.exe"
+    },
+    "video": {
+        "width": 1280,
+        "height": 720,
+        "fps": 1,
+        "frame_duration": 5
+    }
+} 
