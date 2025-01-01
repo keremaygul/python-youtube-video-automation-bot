@@ -1,4 +1,4 @@
-# 🇬 YouTube Video Automation Bot
+# YouTube Video Automation Bot
 
 <div align="center">
 
